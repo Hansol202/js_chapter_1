@@ -95,6 +95,11 @@ console.log(iveMembersArray);
 console.log(iveMembersArray[0]);
 console.log(iveMembersArray[5]);
 
+iveMembersArray[0] = '안유진';
+console.log(iveMembersArray);
+console.log(typeof iveMembersArray);
+
+
 
 
  
